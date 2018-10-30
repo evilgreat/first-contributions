@@ -33,6 +33,7 @@
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - [Moses613](https://github.com/Moses613)
 - Jason
+- [Rohit](https://github.com/evilgreat)
 - [rahul kukreja]
 - [fatima awad](https://github.com/fa6oomawad)
 - [Rachel L](https://github.com/rslim87)
